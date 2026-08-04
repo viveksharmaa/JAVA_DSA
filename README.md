@@ -9,10 +9,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0292-nim-game) |
 ## Brainteaser
@@ -38,5 +40,6 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
