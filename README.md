@@ -64,6 +64,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0088-merge-sorted-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
