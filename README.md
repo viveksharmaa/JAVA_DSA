@@ -13,6 +13,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,10 +72,12 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
 ## Interactive
 |  |
 | ------- |
