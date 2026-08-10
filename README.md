@@ -31,6 +31,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0013-roman-to-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0383-ransom-note) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
