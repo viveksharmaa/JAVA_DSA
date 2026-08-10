@@ -29,6 +29,7 @@
 | [0012-integer-to-roman](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
@@ -62,6 +63,7 @@
 | [0012-integer-to-roman](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0075-sort-colors](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
