@@ -10,8 +10,7 @@ class Solution {
         }
         for (int i=0;i<t.length(); i++){
             freq[t.charAt(i)-'a']--;
-
-            
+               
         }
         for(int count : freq){
             if(count!=0){
