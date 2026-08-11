@@ -1,18 +1,19 @@
 class Solution {
-    public boolean canConstruct(String s, String t) {
+    public boolean canConstruct(String ransomNote, String magazine) {
 
         int[] freq = new int[26];
 
-    
-        for (int i = 0; i < t.length(); i++) {
-            freq[t.charAt(i) - 'a']++;
+        // magazine ke char count karo
+        for (char ch : magazine.toCharArray()) {
+            freq[ch - 'a']++;
         }
 
-        
-        for (int i = 0; i < s.length(); i++) {
-            freq[s.charAt(i) - 'a']--;
+        // ransomNote ke char use karo
+        for (char ch : ransomNote.toCharArray()) {
 
-            if (freq[s.charAt(i) - 'a'] < 0) {
+            freq[ch - 'a']--;
+
+            if (freq[ch - 'a'] < 0) {
                 return false;
             }
         }
