@@ -23,6 +23,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
@@ -93,6 +94,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
