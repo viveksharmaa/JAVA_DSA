@@ -28,6 +28,7 @@
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
 ## Hash Table
@@ -183,4 +184,5 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
