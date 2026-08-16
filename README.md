@@ -17,6 +17,7 @@
 | [0075-sort-colors](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0162-find-peak-element) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0860-lemonade-change) |
