@@ -38,6 +38,7 @@
 | [0881-boats-to-save-people](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0948-bag-of-tokens) |
+| [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
 | [1710-maximum-units-on-a-truck](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
@@ -139,6 +140,7 @@
 | [0881-boats-to-save-people](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0948-bag-of-tokens) |
+| [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
 | [1710-maximum-units-on-a-truck](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Interactive
@@ -217,9 +219,18 @@
 | [0860-lemonade-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0948-bag-of-tokens) |
+| [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0881-boats-to-save-people) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
