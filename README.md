@@ -35,6 +35,7 @@
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0860-lemonade-change) |
@@ -142,6 +143,7 @@
 | [0274-h-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0881-boats-to-save-people) |
@@ -186,6 +188,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0630-course-schedule-iii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 ## Quickselect
@@ -227,6 +230,7 @@
 | [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0881-boats-to-save-people) |
