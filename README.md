@@ -92,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 ## Backtracking
 |  |
@@ -219,6 +220,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
@@ -243,8 +245,10 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
