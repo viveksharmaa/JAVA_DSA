@@ -91,6 +91,7 @@
 | [0012-integer-to-roman](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0242-valid-anagram) |
@@ -255,6 +256,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
@@ -262,4 +264,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
