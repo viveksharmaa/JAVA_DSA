@@ -47,6 +47,7 @@
 | [0948-bag-of-tokens](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1710-maximum-units-on-a-truck](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
+| [1207-unique-number-of-occurrences](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
