@@ -68,6 +68,7 @@
 | [0007-reverse-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0062-unique-paths) |
 | [0292-nim-game](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
 ## Brainteaser
@@ -218,6 +219,7 @@
 | [0045-jump-game-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0213-house-robber-ii) |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
