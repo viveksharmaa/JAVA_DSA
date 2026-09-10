@@ -64,6 +64,7 @@
 | [0383-ransom-note](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -299,4 +301,20 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
