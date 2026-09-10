@@ -49,6 +49,7 @@
 | [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1710-maximum-units-on-a-truck](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
@@ -216,6 +217,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
