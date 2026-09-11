@@ -35,6 +35,7 @@
 | [0330-patching-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0643-maximum-average-subarray-i) |
