@@ -50,6 +50,7 @@
 | [0860-lemonade-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
+| [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
@@ -247,6 +248,7 @@
 | [0213-house-robber-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0064-minimum-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Greedy
 |  |
 | ------- |
