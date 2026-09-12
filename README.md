@@ -32,6 +32,7 @@
 | [0179-largest-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0275-h-index-ii) |
@@ -246,6 +247,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0221-maximal-square) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -255,6 +257,7 @@
 | [0063-unique-paths-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Greedy
