@@ -56,6 +56,7 @@
 | [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1710-maximum-units-on-a-truck](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
@@ -251,6 +252,7 @@
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [0221-maximal-square](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
