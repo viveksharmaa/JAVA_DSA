@@ -121,6 +121,7 @@
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0881-boats-to-save-people](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0948-bag-of-tokens) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [0948-bag-of-tokens](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Timsort
 |  |
 | ------- |
