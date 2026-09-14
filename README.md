@@ -63,6 +63,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
@@ -361,6 +362,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Breadth-First Search
 |  |
 | ------- |
