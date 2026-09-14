@@ -50,6 +50,7 @@
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0757-set-intersection-size-at-least-two](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0860-lemonade-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0860-lemonade-change) |
@@ -359,6 +360,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0724-find-pivot-index) |
 ## Breadth-First Search
 |  |
 | ------- |
