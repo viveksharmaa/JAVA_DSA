@@ -42,6 +42,7 @@
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0630-course-schedule-iii) |
@@ -131,6 +132,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [0213-house-robber-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -364,10 +367,15 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
