@@ -34,6 +34,7 @@
 | [0213-house-robber-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0275-h-index-ii) |
@@ -360,6 +361,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1480-running-sum-of-1d-array) |
