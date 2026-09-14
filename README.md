@@ -37,6 +37,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0275-h-index-ii) |
+| [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
@@ -255,6 +256,7 @@
 | [0174-dungeon-game](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -352,4 +354,16 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0713-subarray-product-less-than-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
