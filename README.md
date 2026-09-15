@@ -156,6 +156,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0088-merge-sorted-array) |
@@ -384,4 +385,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
