@@ -60,6 +60,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
+| [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -271,6 +272,7 @@
 | [0518-coin-change-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
@@ -378,6 +380,7 @@
 | [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -387,6 +390,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
 ## Linked List
 |  |
 | ------- |
