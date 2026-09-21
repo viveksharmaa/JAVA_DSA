@@ -128,6 +128,7 @@
 | [0383-ransom-note](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -273,6 +274,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
@@ -411,4 +413,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
