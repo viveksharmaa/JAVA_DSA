@@ -67,6 +67,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [3524-find-x-value-of-array-i](https://github.com/viveksharmaa/JAVA_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0070-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/viveksharmaa/JAVA_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -278,6 +280,7 @@
 | [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3524-find-x-value-of-array-i](https://github.com/viveksharmaa/JAVA_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
 |  |
 | ------- |
