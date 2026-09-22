@@ -134,6 +134,7 @@
 | [0344-reverse-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -284,6 +285,7 @@
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0518-coin-change-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
@@ -430,6 +432,7 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
 ## Newton's Method
 |  |
