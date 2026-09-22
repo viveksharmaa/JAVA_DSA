@@ -92,6 +92,7 @@
 | [0012-integer-to-roman](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
@@ -151,6 +152,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -429,4 +431,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
