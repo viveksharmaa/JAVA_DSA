@@ -139,6 +139,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -296,6 +297,7 @@
 | [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3524-find-x-value-of-array-i](https://github.com/viveksharmaa/JAVA_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
 |  |
