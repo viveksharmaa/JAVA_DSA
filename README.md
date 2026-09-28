@@ -39,6 +39,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
@@ -166,6 +167,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -287,6 +289,7 @@
 | [0174-dungeon-game](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
@@ -458,5 +461,6 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
