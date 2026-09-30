@@ -44,6 +44,7 @@
 | [0330-patching-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0354-russian-doll-envelopes) |
+| [0376-wiggle-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
@@ -297,6 +298,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0354-russian-doll-envelopes) |
+| [0376-wiggle-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0376-wiggle-subsequence) |
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0518-coin-change-ii) |
@@ -332,6 +334,7 @@
 | [0179-largest-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0330-patching-array) |
+| [0376-wiggle-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0605-can-place-flowers) |
