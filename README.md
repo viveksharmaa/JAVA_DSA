@@ -65,6 +65,7 @@
 | [0905-sort-array-by-parity](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0948-bag-of-tokens) |
+| [1027-longest-arithmetic-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-two-city-scheduling](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1029-two-city-scheduling) |
 | [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1051-height-checker) |
@@ -87,6 +88,7 @@
 | [0347-top-k-frequent-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
+| [1027-longest-arithmetic-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/viveksharmaa/JAVA_DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -175,6 +177,7 @@
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1027-longest-arithmetic-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -308,6 +311,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1027-longest-arithmetic-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
