@@ -51,6 +51,7 @@
 | [0605-can-place-flowers](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0704-binary-search) |
@@ -206,6 +207,7 @@
 | [0354-russian-doll-envelopes](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0658-find-k-closest-elements) |
 | [0757-set-intersection-size-at-least-two](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
@@ -298,6 +300,7 @@
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -333,6 +336,7 @@
 | [0455-assign-cookies](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0757-set-intersection-size-at-least-two](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0860-lemonade-change) |
@@ -467,5 +471,6 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0354-russian-doll-envelopes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
