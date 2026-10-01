@@ -24,6 +24,7 @@
 | [0078-subsets](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -158,6 +159,7 @@
 | [0039-combination-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -398,6 +400,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0090-subsets-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
