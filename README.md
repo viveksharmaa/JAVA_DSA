@@ -21,6 +21,7 @@
 | [0064-minimum-path-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0120-triangle) |
@@ -156,6 +157,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -395,6 +397,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/viveksharmaa/JAVA_DSA/tree/master/0078-subsets) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/viveksharmaa/JAVA_DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
